@@ -2,7 +2,7 @@
 
 ## Hey, I'm Ashutosh 👋
 
-🔐 &nbsp;Firmware engineer — I write the code that runs **before** the OS wakes up.
+🔐 &nbsp;Firmware engineer - I write the code that runs **before** the OS wakes up.
 
 ⚙️ &nbsp;ARM · Embedded Linux · RTOS · Device Drivers · Secure World
 
