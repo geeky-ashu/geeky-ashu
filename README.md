@@ -204,17 +204,6 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 ---
 
-## 🎓 Education & Certifications
-
-```
-🎓  M.S. Electrical Engineering      University of Texas, USA
-🎓  B.E. Electronics Engineering     University of Mumbai, India
-🏅  Data Structures & Algorithms     Microsoft — edX
-🚁  Unmanned Vehicle Systems         University of Texas at Arlington
-🏔️  Arctic Code Vault Contributor    GitHub
-```
-
----
 
 <div align="center">
 
