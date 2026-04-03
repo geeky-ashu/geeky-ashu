@@ -2,7 +2,13 @@
 
 <!-- ═══════════════════════════════════════════ HEADER ══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1565C0&height=200&section=header&text=Ashutosh%20Desai&fontSize=54&fontColor=64b5f6&animation=fadeIn&fontAlignY=36&desc=Firmware%20%26%20Embedded%20Security%20Engineer&descAlignY=58&descColor=90caf9&descSize=18" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=46&duration=1&pause=99999&color=64B5F6&center=true&vCenter=true&width=700&height=90&lines=Ashutosh+Desai" alt="Ashutosh Desai"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=1&pause=99999&color=90CAF9&center=true&vCenter=true&width=700&height=36&lines=Firmware+%26+Embedded+Security+Engineer" alt="Firmware & Embedded Security Engineer"/>
+
+<br/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -29,11 +35,11 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 **What I focus on:**
 
-- 🔐 &nbsp;**TEE & Secure World** — OP-TEE, fTPM, TPM attestation, secure-world vulnerability remediation
-- 🏗️ &nbsp;**ARM Trusted Firmware (TF-A)** — EL3 reset handling, integrated chip reset, secure boot flows  
-- 🔬 &nbsp;**Multi-processor Debugging** — APU/RPU deadlocks, MCTP failures, IPI & fragment-handling defects
-- ⚙️ &nbsp;**Embedded Linux** — kernel drivers, BSP, board bring-up, platform diagnostics
-- 📡 &nbsp;**Hardware Protocols** — SPI, I2C, UART, PCIe, DMA, MDIO, MCTP, RS-485
+- 🔐 &nbsp;**TEE & Secure World** - OP-TEE, fTPM, TPM attestation, secure-world vulnerability remediation
+- 🏗️ &nbsp;**ARM Trusted Firmware (TF-A)** - EL3 reset handling, integrated chip reset, secure boot flows  
+- 🔬 &nbsp;**Multi-processor Debugging** - APU/RPU deadlocks, MCTP failures, IPI & fragment-handling defects
+- ⚙️ &nbsp;**Embedded Linux** - kernel drivers, BSP, board bring-up, platform diagnostics
+- 📡 &nbsp;**Hardware Protocols** - SPI, I2C, UART, PCIe, DMA, MDIO, MCTP, RS-485
 
 ---
 
@@ -157,7 +163,7 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=geeky-ashu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+<img src="https://trophy.ryglcloud.net/?username=geeky-ashu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 
 </div>
 
@@ -177,13 +183,7 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geeky-ashu/geeky-ashu/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geeky-ashu/geeky-ashu/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/geeky-ashu/geeky-ashu/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<sub>⚡ Enable the snake — add <a href="https://github.com/Platane/snk">this GitHub Action</a> to your repo (2 min setup)</sub>
+<img src="https://ghchart.rshah.org/64b5f6/geeky-ashu" alt="geeky-ashu's contribution chart"/>
 
 </div>
 
@@ -193,12 +193,12 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 <div align="center">
 
-<a href="https://github.com/geeky-ashu/Coperative-Scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=Coperative-Scheduler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
-<a href="https://github.com/geeky-ashu/Periodic-Scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=Periodic-Scheduler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
-<a href="https://github.com/geeky-ashu/Custom_Bootloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=Custom_Bootloader&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
-<a href="https://github.com/geeky-ashu/DMA-Programing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=DMA-Programing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
-<a href="https://github.com/geeky-ashu/Peeer-to-Peer-communication-using-RS-485-Link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=Peeer-to-Peer-communication-using-RS-485-Link&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
-<a href="https://github.com/geeky-ashu/Image_Processing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=geeky-ashu&repo=Image_Processing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/Coperative-Scheduler"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=Coperative-Scheduler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/Periodic-Scheduler"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=Periodic-Scheduler&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/Custom_Bootloader"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=Custom_Bootloader&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/DMA-Programing"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=DMA-Programing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/Peeer-to-Peer-communication-using-RS-485-Link"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=Peeer-to-Peer-communication-using-RS-485-Link&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
+<a href="https://github.com/geeky-ashu/Image_Processing"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=geeky-ashu&repo=Image_Processing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=f78166"/></a>
 
 </div>
 
@@ -220,6 +220,6 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0a0e27&height=100&section=footer" width="100%"/>
 
-*"The best way to predict the future is to invent it — one register at a time."*
+*"The best way to predict the future is to invent it - one register at a time."*
 
 </div>
