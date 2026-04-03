@@ -1,14 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d2e,100:39D353&height=120&section=header&animation=twinkling" width="100%"/>
-
-</div>
-
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=600&color=39D353&background=0D1117FF&multiline=true&repeat=true&width=360&height=220&lines=%24+make+CROSS_COMPILE%3Darm-none-eabi-+defconfig;%5B+OK+%5D+ARM+Cortex-M+firmware+ready;%24+insmod+uart_driver.ko;%5B+OK+%5D+UART+driver+loaded+%2F+IRQ+42;%24+rtos_task_create+%22sensor_poll%22+512;%5B+OK+%5D+task+0x3+scheduled+%40+100Hz;%24+dmesg+%7C+grep+%22EL3%22;%5B+OK+%5D+BL31+secure+world+initialized;%24+%E2%96%88" width="360" alt="terminal"/>
 
 ## Hey, I'm Ashutosh 👋
 
-🔐 &nbsp;Firmware engineer - I write the code that runs **before** the OS wakes up.
+🔐 &nbsp;Firmware engineer — I write the code that runs **before** the OS wakes up.
 
 ⚙️ &nbsp;ARM · Embedded Linux · RTOS · Device Drivers · Secure World
 
