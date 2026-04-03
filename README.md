@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=600&color=39D353&background=0D1117FF&multiline=true&repeat=true&width=360&height=220&lines=%24+make+CROSS_COMPILE%3Darm-none-eabi-+defconfig;%5B+OK+%5D+ARM+Cortex-M+firmware+ready;%24+insmod+uart_driver.ko;%5B+OK+%5D+UART+driver+loaded+%2F+IRQ+42;%24+rtos_task_create+%22sensor_poll%22+512;%5B+OK+%5D+task+0x3+scheduled+%40+100Hz;%24+dmesg+%7C+grep+%22EL3%22;%5B+OK+%5D+BL31+secure+world+initialized;%24+%E2%96%88" width="360" alt="terminal"/>
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=39D353&background=0D1117FF&multiline=true&repeat=true&width=380&height=240&lines=%24+.%2Fashutosh+--init;%5B%23%23%23%23......%5D+40%25++booting...;%5B%23%23%23%23%23%23%23%23..%5D+80%25++booting...;%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25+ready;%3E+bootloader+%3A+u-boot+custom++%5BOK%5D;%3E+kernel+++++%3A+linux+5.x++++++%5BOK%5D;%3E+drv-core+++%3A+subsys+init++++%5BOK%5D;%3E+drivers++++%3A+spi+i2c+uart+++%5BOK%5D;%3E+yocto%2Fbsp++%3A+rootfs+ready+++%5BOK%5D;%24+%E2%96%88" width="380" alt="ashutosh-init"/>
 
 ## Hey, I'm Ashutosh 👋
 
@@ -29,7 +29,7 @@ I've been pushing firmware and embedded C for years - bootloaders, schedulers, d
 
 | **Bare-metal & RTOS** | **Drivers & Interfaces** |
 | --- | --- |
-| • [Custom_Bootloader](https://github.com/geeky-ashu/Custom_Bootloader) — Bare-metal bootloader for ARM Cortex-M<br>• [Cooperative-Scheduler](https://github.com/geeky-ashu/Coperative-Scheduler) — Cooperative task scheduler, no OS<br>• [Periodic-Scheduler](https://github.com/geeky-ashu/Periodic-Scheduler) — Timer-based periodic task scheduling | • [DMA-Programming](https://github.com/geeky-ashu/DMA-Programing) — DMA controller experiments in C<br>• [RS-485 P2P](https://github.com/geeky-ashu/Peeer-to-Peer-communication-using-RS-485-Link) — Peer-to-peer over RS-485<br>• [Image-Processing](https://github.com/geeky-ashu/Image_Processing) — Computer vision experiments |
+| • [Custom_Bootloader](https://github.com/geeky-ashu/Custom_Bootloader) - Bare-metal bootloader for ARM Cortex-M<br>• [Cooperative-Scheduler](https://github.com/geeky-ashu/Coperative-Scheduler) - Cooperative task scheduler, no OS<br>• [Periodic-Scheduler](https://github.com/geeky-ashu/Periodic-Scheduler) - Timer-based periodic task scheduling | • [DMA-Programming](https://github.com/geeky-ashu/DMA-Programing) - DMA controller experiments in C<br>• [RS-485 P2P](https://github.com/geeky-ashu/Peeer-to-Peer-communication-using-RS-485-Link) - Peer-to-peer over RS-485<br>• [Image-Processing](https://github.com/geeky-ashu/Image_Processing) - Computer vision experiments |
 
 ---
 
