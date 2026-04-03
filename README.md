@@ -145,9 +145,9 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=geeky-ashu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=geeky-ashu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-ashu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=6" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=geeky-ashu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=6" height="165"/>
 
 </div>
 
