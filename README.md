@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=46&duration=1&pause=99999&color=64B5F6&center=true&vCenter=true&width=700&height=90&lines=Ashutosh+Desai" alt="Ashutosh Desai"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=46&duration=1&pause=99999&color=64B5F6&center=true&vCenter=true&width=700&height=90&lines=Hey+there+%F0%9F%91%8B" alt="Hey there 👋"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=1&pause=99999&color=90CAF9&center=true&vCenter=true&width=700&height=36&lines=Firmware+%26+Embedded+Security+Engineer" alt="Firmware & Embedded Security Engineer"/>
 
@@ -203,7 +203,6 @@ I'm a firmware engineer who lives at the intersection of **hardware and security
 </div>
 
 ---
-
 
 <div align="center">
 
