@@ -1,15 +1,28 @@
-# Project Title
+# Welcome to My GitHub Profile
 
-Description of the project.
+![Header Image](https://example.com/header-image.png)
 
-![Image Alt Text](https://example.com/image1.jpg)
-![Image Alt Text](https://example.com/image2.jpg)
-![Image Alt Text](https://example.com/image3.jpg)
+## Typing Animation
 
-## Installation
+```plaintext
+Typing animation effect here...
+```
 
-Instructions on how to install the project.
+## Stats
 
-## Usage
+![GitHub Stats](https://example.com/stats.png)
 
-Instructions for using the project.
+## Trophies
+
+![Trophies](https://example.com/trophies.png)
+
+## Activity Graph
+
+![Activity Graph](https://example.com/activity-graph.png)
+
+## Project Cards
+
+| Project Name | Description |
+|--------------|-------------|
+| Project 1    | Description of project 1 |
+| Project 2    | Description of project 2 |
