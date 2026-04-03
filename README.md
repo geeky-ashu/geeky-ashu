@@ -6,7 +6,7 @@
 
 ⚙️ &nbsp;ARM · Embedded Linux · RTOS · Device Drivers · Secure World
 
-🛠️ &nbsp;7 years shipping production firmware on real hardware.
+🛠️ &nbsp;7+ years shipping production firmware on real hardware.
 
 <br>
 
@@ -21,7 +21,7 @@
 
 ## ⚡ About
 
-I've been pushing firmware and embedded C for years — bootloaders, schedulers, device drivers, and things that run on bare metal. OS internals, RTOS task scheduling, ARM architecture, interrupt handling, and low-level Linux kernel work. Most of the real work lives in private repos. C is the language, ARM is the architecture, and GDB is the therapist.
+I've been pushing firmware and embedded C for years - bootloaders, schedulers, device drivers, and things that run on bare metal. OS internals, RTOS task scheduling, ARM architecture, interrupt handling, and low-level Linux kernel work. Most of the real work lives in private repos. C is the language, ARM is the architecture, and GDB is the therapist.
 
 ---
 
