@@ -1,6 +1,6 @@
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=39D353&background=0D1117FF&multiline=true&repeat=true&width=380&height=240&lines=%24+.%2Fashutosh+--init;%5B%23%23%23%23......%5D+40%25++booting...;%5B%23%23%23%23%23%23%23%23..%5D+80%25++booting...;%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25+ready;%3E+bootloader+%3A+u-boot+custom++%5BOK%5D;%3E+kernel+++++%3A+linux+5.x++++++%5BOK%5D;%3E+drv-core+++%3A+subsys+init++++%5BOK%5D;%3E+drivers++++%3A+spi+i2c+uart+++%5BOK%5D;%3E+yocto%2Fbsp++%3A+rootfs+ready+++%5BOK%5D;%24+%E2%96%88" width="380" alt="ashutosh-init"/>
 
-## Hey, I'm Ashutosh 👋
+## Hey, I'm Ashutosh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
 
 🔐 &nbsp;Firmware engineer - I write code that runs **before** the OS wakes up.
 
