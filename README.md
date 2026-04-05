@@ -39,7 +39,7 @@ I've been pushing firmware and embedded C for years - bootloaders, schedulers, d
 | --- | --- |
 | **Tinkering** | Bare-metal ARM Cortex-M, RTOS internals, custom bootloaders |
 | **Learning** | TEE architecture, secure boot flows, EL3 firmware internals |
-| **Reading** | ARM Architecture Reference Manual — every firmware engineer's bedtime story |
+| **Reading** | ARM Architecture Reference Manual - every firmware engineer's bedtime story |
 | **Debugging** | Anything that shouldn't fail but does |
 
 ---
